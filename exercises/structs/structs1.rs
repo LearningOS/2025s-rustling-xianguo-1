@@ -1,7 +1,7 @@
 /*
  * @@author        : xia_1  guo_114@outlook.com
  * @@date          : 2025-03-31 21:05
- * @@file          : \learnd:\CODE\RUST\CAMP\2025s-rustling-xianguo-1\exercises\structs\structs1.rs
+ * @@file          : \RUST\CAMP\2025s-rustling-xianguo-1\exercises\structs\structs1.rs
  * @@name          : 
  * @@details       : 
  * @@version       : 1.0
